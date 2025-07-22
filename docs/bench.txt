@@ -1,0 +1,1 @@
+Average inference: 24.2 ms over 50 runs
